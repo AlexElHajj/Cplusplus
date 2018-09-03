@@ -1,2 +1,2 @@
 # Cplusplus
-This portfolio contains C++ work and will be updated and improved to show off new work 
+This portfolio contains C++ work. The project implements two data structures, a que and a stack.
